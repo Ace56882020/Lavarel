@@ -1,0 +1,29 @@
+.container{
+    margin-top: 15px;
+}
+
+.pull-right{
+   
+    margin-bottom: 10px;
+}
+
+.table {
+    text-align: center;
+}
+
+.form-control{
+    width: 300px;
+}
+
+.paginacion{
+   margin-left: 72vw;
+}
+
+.container1{
+    height: 150vh;
+    text-align: center;
+}
+
+select{
+    width: 300px;
+}
